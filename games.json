@@ -1,0 +1,194 @@
+[
+  {
+    "Name": "Pokémon Red",
+    "Platform": "Game Boy",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "One of the original Pokémon games in which the player explores the Kanto region, catches and trains Pokémon, and battles Gym Leaders to become Champion.",
+    "ReleaseYear": 1996
+  },
+  {
+    "Name": "Pokémon Blue",
+    "Platform": "Game Boy",
+    "Genre": "Role-Playing",
+    "Publisher": "Nintendo",
+    "Description": "Companion version to Pokémon Red, released simultaneously in Japan, featuring the same core adventure with a few different Pokémon available.",
+    "ReleaseYear": 1996
+  },
+  {
+    "Name": "Super Mario Bros.",
+    "Platform": "Nintendo Entertainment System",
+    "Genre": "Platformer",
+    "Publisher": "Nintendo",
+    "Description": "A side-scrolling platform game in which Mario travels across the Mushroom Kingdom to rescue Princess Toadstool from Bowser.",
+    "ReleaseYear": 1985
+  },
+  {
+    "Name": "Super Mario Bros. 3",
+    "Platform": "Nintendo Entertainment System",
+    "Genre": "Platformer",
+    "Publisher": "Nintendo",
+    "Description": "Mario and Luigi journey through the Mushroom World across eight kingdoms to defeat Bowser's Koopalings and rescue Princess Toadstool.",
+    "ReleaseYear": 1988
+  },
+  {
+    "Name": "The Legend of Zelda",
+    "Platform": "Nintendo Entertainment System",
+    "Genre": "Action-Adventure",
+    "Publisher": "Nintendo",
+    "Description": "Link explores the kingdom of Hyrule, collecting pieces of the Triforce of Wisdom to defeat Ganon and rescue Princess Zelda.",
+    "ReleaseYear": 1986
+  },
+  {
+    "Name": "The Legend of Zelda: Ocarina of Time",
+    "Platform": "Nintendo 64",
+    "Genre": "Action-Adventure",
+    "Publisher": "Nintendo",
+    "Description": "Link travels between childhood and adulthood using the Ocarina of Time to stop Ganondorf from conquering Hyrule.",
+    "ReleaseYear": 1998
+  },
+  {
+    "Name": "The Legend of Zelda: Breath of the Wild",
+    "Platform": "Nintendo Switch",
+    "Genre": "Action-Adventure",
+    "Publisher": "Nintendo",
+    "Description": "An open-world reimagining of the Zelda series in which Link awakens after a century of slumber to defeat Calamity Ganon and save Hyrule.",
+    "ReleaseYear": 2017
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "PlayStation 3",
+    "Genre": "Action-Adventure",
+    "Publisher": "Rockstar Games",
+    "Description": "An open-world crime game following three protagonists — Michael, Franklin, and Trevor — as they pull off heists in the fictional city of Los Santos.",
+    "ReleaseYear": 2013
+  },
+  {
+    "Name": "Red Dead Redemption 2",
+    "Platform": "PlayStation 4",
+    "Genre": "Action-Adventure",
+    "Publisher": "Rockstar Games",
+    "Description": "A Western epic following outlaw Arthur Morgan and the Van der Linde gang as they fight to survive against the encroaching forces of civilization.",
+    "ReleaseYear": 2018
+  },
+  {
+    "Name": "God of War",
+    "Platform": "PlayStation 4",
+    "Genre": "Action-Adventure",
+    "Publisher": "Sony Interactive Entertainment",
+    "Description": "Kratos and his son Atreus journey through the Norse realms, with Kratos confronting his violent past as a Greek god of war.",
+    "ReleaseYear": 2018
+  },
+  {
+    "Name": "The Witcher 3: Wild Hunt",
+    "Platform": "PC",
+    "Genre": "Role-Playing",
+    "Publisher": "CD Projekt",
+    "Description": "Monster hunter Geralt of Rivia searches for his adopted daughter Ciri across a war-torn open world in this narrative-driven RPG.",
+    "ReleaseYear": 2015
+  },
+  {
+    "Name": "Minecraft",
+    "Platform": "PC",
+    "Genre": "Sandbox",
+    "Publisher": "Mojang Studios",
+    "Description": "A block-building sandbox game where players gather resources, craft tools, and construct anything they can imagine across procedurally generated worlds.",
+    "ReleaseYear": 2011
+  },
+  {
+    "Name": "Half-Life 2",
+    "Platform": "PC",
+    "Genre": "First-Person Shooter",
+    "Publisher": "Valve",
+    "Description": "Gordon Freeman fights to liberate Earth from the alien Combine in this landmark physics-driven first-person shooter.",
+    "ReleaseYear": 2004
+  },
+  {
+    "Name": "Portal 2",
+    "Platform": "PC",
+    "Genre": "Puzzle-Platformer",
+    "Publisher": "Valve",
+    "Description": "Chell solves increasingly complex portal-based puzzles inside the Aperture Science facility, aided and antagonized by the AI GLaDOS.",
+    "ReleaseYear": 2011
+  },
+  {
+    "Name": "Final Fantasy VII",
+    "Platform": "PlayStation",
+    "Genre": "Role-Playing",
+    "Publisher": "Square",
+    "Description": "Cloud Strife and the eco-terrorist group AVALANCHE fight the megacorporation Shinra and the reappearing villain Sephiroth to save the planet.",
+    "ReleaseYear": 1997
+  },
+  {
+    "Name": "Chrono Trigger",
+    "Platform": "Super Nintendo Entertainment System",
+    "Genre": "Role-Playing",
+    "Publisher": "Square",
+    "Description": "A time-traveling RPG following Crono and his companions as they work to prevent a global catastrophe across different eras of history.",
+    "ReleaseYear": 1995
+  },
+  {
+    "Name": "Halo: Combat Evolved",
+    "Platform": "Xbox",
+    "Genre": "First-Person Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "Description": "Master Chief battles the alien Covenant on a mysterious ringworld while uncovering the secrets of the Forerunners and the Flood.",
+    "ReleaseYear": 2001
+  },
+  {
+    "Name": "Metal Gear Solid",
+    "Platform": "PlayStation",
+    "Genre": "Stealth-Action",
+    "Publisher": "Konami",
+    "Description": "Solid Snake infiltrates a nuclear weapons facility on Shadow Moses Island to stop a terrorist takeover led by FOXHOUND.",
+    "ReleaseYear": 1998
+  },
+  {
+    "Name": "Sonic the Hedgehog",
+    "Platform": "Sega Genesis",
+    "Genre": "Platformer",
+    "Publisher": "Sega",
+    "Description": "Sonic races through Green Hill Zone and beyond to stop Dr. Robotnik from harvesting animals to power his robot empire.",
+    "ReleaseYear": 1991
+  },
+  {
+    "Name": "Street Fighter II",
+    "Platform": "Arcade",
+    "Genre": "Fighting",
+    "Publisher": "Capcom",
+    "Description": "A roster of martial artists from around the world compete in a global fighting tournament, popularizing the competitive fighting genre.",
+    "ReleaseYear": 1991
+  },
+  {
+    "Name": "Overwatch",
+    "Platform": "PC",
+    "Genre": "First-Person Shooter",
+    "Publisher": "Blizzard Entertainment",
+    "Description": "A team-based hero shooter in which squads of heroes with unique abilities compete on objective-based maps.",
+    "ReleaseYear": 2016
+  },
+  {
+    "Name": "Elden Ring",
+    "Platform": "PlayStation 5",
+    "Genre": "Action Role-Playing",
+    "Publisher": "Bandai Namco Entertainment",
+    "Description": "The Tarnished explores the Lands Between, an open world crafted with George R. R. Martin, to become the new Elden Lord.",
+    "ReleaseYear": 2022
+  },
+  {
+    "Name": "Animal Crossing: New Horizons",
+    "Platform": "Nintendo Switch",
+    "Genre": "Simulation",
+    "Publisher": "Nintendo",
+    "Description": "Players develop a deserted island into a thriving community, collecting resources, decorating, and befriending anthropomorphic villagers.",
+    "ReleaseYear": 2020
+  },
+  {
+    "Name": "Cyberpunk 2077",
+    "Platform": "PC",
+    "Genre": "Action Role-Playing",
+    "Publisher": "CD Projekt",
+    "Description": "Mercenary V navigates the sprawling, dystopian metropolis of Night City in search of a mysterious implant that can grant immortality.",
+    "ReleaseYear": 2020
+  }
+]
